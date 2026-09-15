@@ -1,141 +1,119 @@
 <div align="center">
 
-# Olá, mundo! Eu sou o Kalicon Amorim 👋
+# Kalicon Amorim
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software+%7C+Full+Stack+%26+Mobile;Java+%7C+Spring+Boot+%7C+Kotlin+%7C+JavaScript;Sistemas+Corporativos%2C+HealthTech+%26+Miss%C3%A3o+Cr%C3%ADtica;An%C3%A1lise+e+Desenvolvimento+de+Sistemas+%40+FIAP" alt="Typing SVG" />
-</a>
+Desenvolvedor de Software | Graduando em Análise e Desenvolvimento de Sistemas (FIAP, 2026)
 
 <p align="center">
-  <a href="mailto:kalicon.amorim@hotmail.com"><img src="https://img.shields.io/badge/Email-kalicon.amorim%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Kalicon"><img src="https://img.shields.io/badge/GitHub-Kalicon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-S%C3%A3o%20Paulo%2C%20Brasil-informational?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo" />
-  <img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-ADS%20%40%20FIAP-ED145B?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="FIAP" />
+  <a href="mailto:kalicon.amorim@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-kalicon.amorim%40hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Localização-São%20Paulo%2C%20SP-informational?style=flat-square&logo=googlemaps&logoColor=white" alt="São Paulo" />
+  <img src="https://img.shields.io/badge/Formação-ADS%20FIAP%20(2026)-ED145B?style=flat-square" alt="FIAP" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
+## Sobre
 
-Sou **Desenvolvedor de Software** com foco na resolução de problemas reais de alta complexidade por meio de tecnologia sólida, escalável e bem arquitetada. Minha trajetória combina o rigor da engenharia de software (arquitetura limpa, testes unitários automatizados e segurança de dados) com interfaces ricas, modernas e centradas na experiência do usuário.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP com conclusão prevista para 2026. Atuo no desenvolvimento de sistemas funcionais de ponta a ponta, integrando frontend, arquitetura backend, regras de negócio e automação de processos.
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela **FIAP** (Global Solution 2026).
-- 🏥 **HealthTech & Setor Público**: Autor de algoritmos de dimensionamento de pessoal de enfermagem (Resolução COFEN 743/2024) e compensação automatizada de escalas e jornadas reduzidas no **Hospital Maternidade Leonor Mendes de Barros (SES-SP)**.
-- 💼 **Finanças & DP**: Criador do **RHUB**, uma suíte completa PWA offline de cálculos trabalhistas e departamento pessoal para a CLT brasileira, validada com suíte de testes unitários no Vitest e exportação analítica em Excel.
-- 🛰️ **Monitoramento Espacial & Climático**: Idealizador da plataforma **AEGIS-ORBIT**, unindo aplicativo Android nativo (Kotlin / Jetpack Compose) com telemetria via satélite e dashboard operacional estilo NASA Mission Control.
-- ☕ **Backend Corporativo**: Desenvolvimento de plataformas empresariais robustas em **Java 17 (LTS)** e **Spring Boot 3**, aplicando Spring Security 6, RBAC, auditoria e APIs documentadas com OpenAPI/Swagger.
+Minha prática de desenvolvimento é orientada à resolução de problemas reais de operação e gestão:
 
----
-
-### 🛠️ Arsenal Tecnológico
-
-<div align="center">
-
-#### 💻 Linguagens & Core
-![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### ⚙️ Backend, Frameworks & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security_6-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-#### 📱 Mobile, Frontend & UI/UX
-![Android](https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA_Offline-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js_4-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP_3-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-#### 🧪 Testes, Qualidade & Ferramentas
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2_Database-003B57?style=for-the-badge)
-
-</div>
+- **Sistemas Corporativos**: Desenvolvimento do Claravellas (sistema privado voltado a fluxos operacionais e regras de negócio) e do IntraHub (portal corporativo em Java e Spring Boot com controle de acesso RBAC e auditoria).
+- **Aplicações para o Setor Público (SES-SP)**: Criação de algoritmos de compensação de banco de horas para jornadas reduzidas e dimensionamento de enfermagem (Resolução COFEN) aplicados ao Hospital Maternidade Leonor Mendes de Barros (UGA IV).
+- **Engenharia de Software e Automação**: Desenvolvimento da suíte RHUB, cobrindo regras da CLT brasileira em arquitetura offline (PWA), suíte de testes unitários automatizados com Vitest e exportação analítica em planilhas Excel.
 
 ---
 
-### 🚀 Projetos em Destaque
+## Tecnologias e Ferramentas
+
+### Backend e Arquitetura
+![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security_6-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+### Frontend e Mobile
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA_Offline-5A0FC8?style=flat-square)
+![Android](https://img.shields.io/badge/Android_Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+### Banco de Dados, Testes e Ferramentas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-003B57?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Projetos em Destaque
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">💼 RHUB — Suíte CLT & DP</h3>
-      <p align="center">
-        <a href="https://kalicon.github.io/RHUB/">
-          <img src="https://img.shields.io/badge/App_Online-Acessar-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" />
-        </a>
-        <a href="https://github.com/Kalicon/RHUB">
-          <img src="https://img.shields.io/badge/C%C3%B3digo_Fonte-RHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>RHUB — Suíte de Cálculos CLT e DP</h3>
+      <p>
+        <a href="https://kalicon.github.io/RHUB/">App Online</a> | 
+        <a href="https://github.com/Kalicon/RHUB">Código Fonte</a>
       </p>
-      <p>Calculadora e ecossistema moderno para cálculos trabalhistas da CLT brasileira e simulação CLT vs. PJ com ponto de equilíbrio automático.</p>
+      <p>Aplicação web para simulações trabalhistas da legislação brasileira e comparador de custos CLT vs. PJ com cálculo de ponto de equilíbrio.</p>
       <ul>
-        <li><b>Destaques:</b> PWA instalável offline, 14 testes unitários automatizados (Vitest), relatórios executivos para impressão e exportação Excel (.xlsx).</li>
-        <li><b>Stack:</b> JavaScript ES6 Modules, Tailwind CSS, Vitest, SheetJS, Chart.js, GSAP.</li>
+        <li>Funcionamento offline completo via Progressive Web App (PWA).</li>
+        <li>14 testes unitários automatizados com Vitest cobrindo regras legais de cálculo.</li>
+        <li>Exportação estruturada de dados para planilhas Excel (.xlsx) e layout para impressão técnica.</li>
+        <li><b>Stack:</b> JavaScript (ES6 Modules), Tailwind CSS, Vitest, SheetJS, Chart.js.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">🛰️ AEGIS-ORBIT</h3>
-      <p align="center">
-        <a href="https://youtu.be/5WBFzDZWN7Y">
-          <img src="https://img.shields.io/badge/V%C3%ADdeo_Pitch-Assistir-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-        </a>
-        <a href="https://github.com/Kalicon/aegis-orbit">
-          <img src="https://img.shields.io/badge/C%C3%B3digo_Fonte-aegis--orbit-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Plataforma de inteligência climática aeroespacial e resposta rápida a desastres ambientais, desenvolvida para o <b>FIAP Global Solution 2026</b>.</p>
+    <td width="50%" valign="top">
+      <h3>Claravellas — Sistema Corporativo</h3>
+      <p><i>Repositório Privado (Em Produção)</i></p>
+      <p>Plataforma empresarial proprietária projetada para automação de processos operacionais e suporte a regras de negócio de alta densidade.</p>
       <ul>
-        <li><b>Destaques:</b> Aplicativo Android Nativo com rotas de fuga OSRM, integração com telemetria da NASA (APOD, NEO) e dashboard Mission Control em tempo real.</li>
-        <li><b>Stack:</b> Kotlin, Jetpack Compose, JavaScript, Leaflet.js, Open-Meteo, NASA APIs.</li>
+        <li>Arquitetura modular orientada a estabilidade e integridade de dados.</li>
+        <li>Automação de rotinas internas para redução de trabalho manual.</li>
+        <li>Tratamento de regras de negócio com foco em consistência operacional.</li>
+        <li><b>Foco:</b> Backend, automações e arquitetura corporativa.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌐 IntraHub — Portal Corporativo</h3>
-      <p align="center">
-        <a href="https://github.com/Kalicon/IntraHub">
-          <img src="https://img.shields.io/badge/C%C3%B3digo_Fonte-IntraHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>IntraHub — Portal Corporativo e Intranet</h3>
+      <p>
+        <a href="https://github.com/Kalicon/IntraHub">Código Fonte</a>
       </p>
-      <p>Plataforma corporativa integrada com arquitetura robusta para centralizar fluxos empresariais, auditoria e comunicação interna.</p>
+      <p>Sistema web corporativo para centralização de fluxos departamentais, comunicação interna e controle de conformidade.</p>
       <ul>
-        <li><b>Destaques:</b> Replicação semanal automatizada de escalas, central de chamados com disparador de e-mails, canal de ética anônimo com blindagem RBAC e OpenAPI/Swagger.</li>
-        <li><b>Stack:</b> Java 17, Spring Boot 3.2, Spring Security 6, Hibernate/JPA, Thymeleaf, Bootstrap 5.</li>
+        <li>Replicação automatizada de escalas de equipes em lote.</li>
+        <li>Controle de acesso granular baseado em papéis (RBAC) com Spring Security.</li>
+        <li>Documentação de endpoints integrada via OpenAPI / Swagger UI.</li>
+        <li><b>Stack:</b> Java 17, Spring Boot 3.2, Spring Security 6, Hibernate/JPA, Bootstrap 5.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">🏥 Gestão de Escalas SES-SP</h3>
-      <p align="center">
-        <a href="https://kalicon.github.io/Calculadora/">
-          <img src="https://img.shields.io/badge/App_Online-Acessar-059669?style=for-the-badge&logo=googlechrome&logoColor=white" />
-        </a>
-        <a href="https://github.com/Kalicon/Calculadora">
-          <img src="https://img.shields.io/badge/C%C3%B3digo_Fonte-Calculadora-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>Calculadora de Escalas Hospitalares (SES-SP)</h3>
+      <p>
+        <a href="https://kalicon.github.io/Calculadora/">App Online</a> | 
+        <a href="https://github.com/Kalicon/Calculadora">Código Fonte</a>
       </p>
-      <p>Ferramenta aplicada no <b>Hospital Maternidade Leonor Mendes de Barros (UGA IV)</b> para suporte à liderança e colaboradores da saúde pública estadual.</p>
+      <p>Ferramenta desenvolvida para apoio às chefias e equipes do Hospital Maternidade Leonor Mendes de Barros (UGA IV).</p>
       <ul>
-        <li><b>Destaques:</b> Algoritmo de compensação de plantões fracionados com banco semestral zerado, estimador de dimensionamento COFEN 743/2024 e orientador de limites de plantão (LC 1176/2012).</li>
-        <li><b>Stack:</b> HTML5, CSS3, JavaScript, Java (Core Engine).</li>
+        <li>Algoritmo de alternância de plantões mensais para compensação semestral de jornadas reduzidas.</li>
+        <li>Estimativa de dimensionamento de equipe de enfermagem baseada na Resolução COFEN 743/2024.</li>
+        <li>Orientador de conformidade para limites de plantões (LC 1176/2012).</li>
+        <li><b>Stack:</b> JavaScript, HTML5/CSS3, lógica auxiliar em Java.</li>
       </ul>
     </td>
   </tr>
@@ -143,16 +121,16 @@ Sou **Desenvolvedor de Software** com foco na resolução de problemas reais de 
 
 ---
 
-### 📊 Métricas & Atividade no GitHub
+## Atividade no GitHub
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalicon&theme=tokyonight" alt="Estatísticas do GitHub" />
+        <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalicon&theme=tokyonight" alt="Estatísticas Gerais" />
       </td>
       <td align="center">
-        <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalicon&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+        <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalicon&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
       </td>
     </tr>
   </table>
@@ -164,19 +142,8 @@ Sou **Desenvolvedor de Software** com foco na resolução de problemas reais de 
 
 ---
 
-### 📬 Vamos Conversar?
+## Contato
 
-Se você busca um desenvolvedor comprometido com qualidade de código, soluções práticas e inovação contínua, sinta-se à vontade para me contatar:
-
-<p align="center">
-  <a href="mailto:kalicon.amorim@hotmail.com">
-    <img src="https://img.shields.io/badge/Enviar_Email-kalicon.amorim%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Enviar Email" />
-  </a>
-  <a href="https://github.com/Kalicon">
-    <img src="https://img.shields.io/badge/GitHub-Seguir%20%40Kalicon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Kalicon" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Desenvolvido com foco em excelência e evolução contínua. © Kalicon Amorim</sub>
-</p>
+- Email: [kalicon.amorim@hotmail.com](mailto:kalicon.amorim@hotmail.com)
+- Localização: São Paulo, SP - Brasil
+- GitHub: [github.com/Kalicon](https://github.com/Kalicon)
