@@ -19,7 +19,9 @@
 
 <br />
 
-<img src="assets/terminal.svg" alt="Terminal Status" width="100%" />
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal Status" width="100%" style="max-width: 760px;" />
+</p>
 
 </div>
 
