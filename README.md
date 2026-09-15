@@ -7,8 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kalicon%20Amorim&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=58&descSize=17&descColor=38bdf8&animation=fadeIn" width="100%" alt="Kalicon Amorim" />
 </picture>
 
-<h1>Olá, mundo! Eu sou o Kalicon Amorim 👋</h1>
-
 <!-- Tipografia Dinâmica com Contraste Ajustado (Ciano no Dark / Azul Escuro no Light) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(FIAP%2C+2026);Desenvolvedor+de+Software+focado+em+projetos+pr%C3%A1ticos;Aprendizado+acelerado+por+Intelig%C3%AAncia+Artificial+e+c%C3%B3digo+real;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+Node.js+%7C+MongoDB">
