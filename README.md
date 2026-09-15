@@ -7,6 +7,9 @@
 </a>
 
 <p align="center">
+  <a href="https://kalicon.github.io">
+    <img src="https://img.shields.io/badge/Portfólio_Interativo-kalicon.github.io-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio Interativo" />
+  </a>
   <a href="mailto:kalicon.amorim@hotmail.com">
     <img src="https://img.shields.io/badge/Email-kalicon.amorim%40hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
