@@ -148,18 +148,18 @@ Sou **Desenvolvedor de Software** com foco na resolução de problemas reais de 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalicon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Estatísticas do GitHub" />
+      <td align="center">
+        <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalicon&theme=tokyonight" alt="Estatísticas do GitHub" />
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalicon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Linguagens Mais Utilizadas" />
+      <td align="center">
+        <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalicon&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalicon&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Sequência de Commits" />
+  <img src="https://streak-stats.demolab.com/?user=Kalicon&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Sequência de Commits" />
 </div>
 
 ---
