@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" width="100%" height="320">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes typeCommand {
+        0% { width: 0; }
+        100% { width: 220px; }
+      }
+      @keyframes fadeInResponse {
+        0%, 25% { opacity: 0; transform: translateY(4px); }
+        35%, 100% { opacity: 1; transform: translateY(0); }
+      }
+      .window { fill: #0D1117; stroke: #30363D; stroke-width: 1.5; rx: 10px; }
+      .titlebar { fill: #161B22; rx: 10px 10px 0 0; }
+      .dot-red { fill: #FF5F56; }
+      .dot-yellow { fill: #FFBD2E; }
+      .dot-green { fill: #27C93F; }
+      .title-text { fill: #8B949E; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; }
+      .prompt { fill: #38BDF8; font-family: "Fira Code", "Courier New", monospace; font-weight: 600; font-size: 13px; }
+      .cmd-text { fill: #F0F6FC; font-family: "Fira Code", "Courier New", monospace; font-size: 13px; }
+      .json-key { fill: #7EE787; font-family: "Fira Code", "Courier New", monospace; font-size: 12.5px; }
+      .json-str { fill: #A5D6FF; font-family: "Fira Code", "Courier New", monospace; font-size: 12.5px; }
+      .json-arr { fill: #FFA657; font-family: "Fira Code", "Courier New", monospace; font-size: 12.5px; }
+      .json-bracket { fill: #E6EDF3; font-family: "Fira Code", "Courier New", monospace; font-size: 12.5px; }
+      .cursor { fill: #38BDF8; animation: blink 0.9s infinite; }
+      .response-block { animation: fadeInResponse 7s infinite ease-out; }
+    </style>
+  </defs>
+
+  <!-- Janela Principal -->
+  <rect class="window" x="2" y="2" width="676" height="316" rx="10" />
+  
+  <!-- Barra de Título -->
+  <rect class="titlebar" x="2" y="2" width="676" height="34" rx="10" />
+  <circle class="dot-red" cx="20" cy="18" r="5.5" />
+  <circle class="dot-yellow" cx="38" cy="18" r="5.5" />
+  <circle class="dot-green" cx="56" cy="18" r="5.5" />
+  <text class="title-text" x="340" y="22" text-anchor="middle">zsh — kalicon@fiap-dev:~</text>
+
+  <!-- Prompt e Comando -->
+  <g transform="translate(24, 66)">
+    <text class="prompt" x="0" y="0">➜</text>
+    <text class="prompt" x="18" y="0" fill="#79C0FF">~</text>
+    <text class="cmd-text" x="34" y="0">./status.sh --profile</text>
+    <rect class="cursor" x="210" y="-12" width="8" height="15" />
+  </g>
+
+  <!-- Resposta JSON Animada -->
+  <g class="response-block" transform="translate(24, 96)">
+    <text class="json-bracket" x="0" y="0">{</text>
+    
+    <text class="json-key" x="20" y="22">"dev"</text><text class="json-bracket" x="65" y="22">:</text>
+    <text class="json-str" x="80" y="22">"Kalicon Amorim"</text><text class="json-bracket" x="210" y="22">,</text>
+
+    <text class="json-key" x="20" y="44">"academic"</text><text class="json-bracket" x="105" y="44">:</text>
+    <text class="json-str" x="120" y="44">"Análise e Desenv. de Sistemas @ FIAP (2026)"</text><text class="json-bracket" x="490" y="44">,</text>
+
+    <text class="json-key" x="20" y="66">"methodology"</text><text class="json-bracket" x="125" y="66">:</text>
+    <text class="json-str" x="140" y="66">"Learning in public by shipping real software"</text><text class="json-bracket" x="525" y="66">,</text>
+
+    <text class="json-key" x="20" y="88">"ai_superpower"</text><text class="json-bracket" x="140" y="88">:</text>
+    <text class="json-str" x="155" y="88">"AI-assisted architecture, coding &amp; testing"</text><text class="json-bracket" x="500" y="88">,</text>
+
+    <text class="json-key" x="20" y="110">"production_apps"</text><text class="json-bracket" x="160" y="110">:</text>
+    <text class="json-arr" x="175" y="110">[</text>
+    <text class="json-str" x="185" y="110">"Claravellas"</text><text class="json-bracket" x="280" y="110">, </text>
+    <text class="json-str" x="295" y="110">"RHUB"</text><text class="json-bracket" x="345" y="110">, </text>
+    <text class="json-str" x="360" y="110">"Hospital-SES-SP"</text>
+    <text class="json-arr" x="485" y="110">]</text><text class="json-bracket" x="492" y="110">,</text>
+
+    <text class="json-key" x="20" y="132">"backend_stack"</text><text class="json-bracket" x="140" y="132">:</text>
+    <text class="json-arr" x="155" y="132">[</text>
+    <text class="json-str" x="165" y="132">"Java 17"</text><text class="json-bracket" x="235" y="132">, </text>
+    <text class="json-str" x="250" y="132">"Spring Boot 3"</text><text class="json-bracket" x="375" y="132">, </text>
+    <text class="json-str" x="390" y="132">"Node.js"</text><text class="json-bracket" x="460" y="132">, </text>
+    <text class="json-str" x="475" y="132">"MongoDB"</text>
+    <text class="json-arr" x="555" y="132">]</text><text class="json-bracket" x="562" y="132">,</text>
+
+    <text class="json-key" x="20" y="154">"status"</text><text class="json-bracket" x="80" y="154">:</text>
+    <text class="json-str" x="95" y="154">"Building, testing and learning every day"</text>
+
+    <text class="json-bracket" x="0" y="176">}</text>
+  </g>
+</svg>

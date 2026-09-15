@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Formação-ADS%20FIAP%20(2026)-ED145B?style=flat-square" alt="FIAP" />
 </p>
 
+<br />
+
+<img src="assets/terminal.svg" alt="Terminal Status" width="100%" />
+
 </div>
 
 ---
