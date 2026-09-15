@@ -2,10 +2,12 @@
 
 <!-- Banner em Ondas com Suporte Nativo a Modo Claro e Escuro -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=140&section=header&text=Kalicon%20Amorim&fontSize=36&fontAlignY=38&fontColor=38bdf8&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=62&descSize=16&descColor=94a3b8">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:e2e8f0&height=140&section=header&text=Kalicon%20Amorim&fontSize=36&fontAlignY=38&fontColor=0969da&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=62&descSize=16&descColor=475569">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=140&section=header&text=Kalicon%20Amorim&fontSize=36&fontAlignY=38&fontColor=38bdf8&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=62&descSize=16&descColor=94a3b8" width="100%" alt="Kalicon Amorim" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kalicon%20Amorim&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=58&descSize=17&descColor=38bdf8&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0eafc,100:cfdef3&height=180&section=header&text=Kalicon%20Amorim&fontSize=42&fontAlignY=35&fontColor=1e3a5f&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=58&descSize=17&descColor=0969da&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kalicon%20Amorim&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=58&descSize=17&descColor=38bdf8&animation=fadeIn" width="100%" alt="Kalicon Amorim" />
 </picture>
+
+<h1>Olá, mundo! Eu sou o Kalicon Amorim 👋</h1>
 
 <!-- Tipografia Dinâmica com Contraste Ajustado (Ciano no Dark / Azul Escuro no Light) -->
 <picture>
