@@ -142,6 +142,10 @@ O que venho construindo e aprimorando na prática:
 ## Atividade no GitHub
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Kalicon/Kalicon/output/github-contribution-grid-snake-dark.svg" alt="Contribuições Snake" width="100%" />
+
+  <br /><br />
+
   <table border="0">
     <tr>
       <td align="center">
