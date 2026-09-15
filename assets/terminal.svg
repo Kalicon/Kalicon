@@ -9,6 +9,8 @@
         0%, 15% { opacity: 0; }
         25%, 100% { opacity: 1; }
       }
+
+      /* Cores Padrão (Dark Mode) */
       .window-bg { fill: #0D1117; stroke: #30363D; stroke-width: 1.5; rx: 12px; }
       .window-header { fill: #161B22; rx: 12px 12px 0 0; }
       .dot-red { fill: #FF5F56; }
@@ -25,6 +27,22 @@
       .t-str { fill: #79C0FF; font-family: "Fira Code", monospace; font-size: 13px; }
       .t-val-special { fill: #FFA657; font-family: "Fira Code", monospace; font-size: 13px; }
       .json-output { animation: fadeIn 7s ease-in-out infinite; }
+
+      /* Adaptação Automática para Light Mode (Celular ou Desktop com tema claro) */
+      @media (prefers-color-scheme: light) {
+        .window-bg { fill: #F6F8FA; stroke: #D0D7DE; stroke-width: 1.5; }
+        .window-header { fill: #EAEEF2; }
+        .header-title { fill: #57606A; font-weight: 600; }
+        .t-prompt { fill: #0969DA; }
+        .t-dir { fill: #0550AE; }
+        .t-cmd { fill: #1F2328; font-weight: 600; }
+        .cursor { fill: #0969DA; }
+        .t-bracket { fill: #1F2328; }
+        .t-key { fill: #116329; font-weight: 600; }
+        .t-colon { fill: #57606A; }
+        .t-str { fill: #0A3069; }
+        .t-val-special { fill: #953800; font-weight: 600; }
+      }
     </style>
   </defs>
 
@@ -44,7 +62,7 @@
   <text class="t-cmd" x="66" y="74">./status.sh --profile</text>
   <rect class="cursor" x="245" y="60" width="8.5" height="17" rx="1" />
 
-  <!-- Bloco de Resposta JSON (100% dentro da janela com padding) -->
+  <!-- Bloco de Resposta JSON (Perfeito em Dark e Light Mode) -->
   <g class="json-output">
     <text class="t-bracket" x="28" y="106">{</text>
 

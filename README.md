@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=140&section=header&text=Kalicon%20Amorim&fontSize=36&fontAlignY=38&fontColor=38bdf8&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=62&descSize=16&descColor=94a3b8" width="100%" alt="Kalicon Amorim" />
+<!-- Banner em Ondas com Suporte Nativo a Modo Claro e Escuro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=140&section=header&text=Kalicon%20Amorim&fontSize=36&fontAlignY=38&fontColor=38bdf8&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=62&descSize=16&descColor=94a3b8">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:e2e8f0&height=140&section=header&text=Kalicon%20Amorim&fontSize=36&fontAlignY=38&fontColor=0969da&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=62&descSize=16&descColor=475569">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=140&section=header&text=Kalicon%20Amorim&fontSize=36&fontAlignY=38&fontColor=38bdf8&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=62&descSize=16&descColor=94a3b8" width="100%" alt="Kalicon Amorim" />
+</picture>
 
-<a href="https://git.io/typing-svg">
+<!-- Tipografia Dinâmica com Contraste Ajustado (Ciano no Dark / Azul Escuro no Light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(FIAP%2C+2026);Desenvolvedor+de+Software+focado+em+projetos+pr%C3%A1ticos;Aprendizado+acelerado+por+Intelig%C3%AAncia+Artificial+e+c%C3%B3digo+real;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+Node.js+%7C+MongoDB">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(FIAP%2C+2026);Desenvolvedor+de+Software+focado+em+projetos+pr%C3%A1ticos;Aprendizado+acelerado+por+Intelig%C3%AAncia+Artificial+e+c%C3%B3digo+real;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+Node.js+%7C+MongoDB">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(FIAP%2C+2026);Desenvolvedor+de+Software+focado+em+projetos+pr%C3%A1ticos;Aprendizado+acelerado+por+Intelig%C3%AAncia+Artificial+e+c%C3%B3digo+real;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
-</a>
+</picture>
 
 <p align="center">
   <a href="https://kalicon.github.io">
@@ -19,6 +27,7 @@
 
 <br />
 
+<!-- Terminal Animado Adaptável (SVG com detecção automática de Light e Dark Mode) -->
 <p align="center">
   <img src="assets/terminal.svg" alt="Terminal Status" width="100%" style="max-width: 760px;" />
 </p>
@@ -151,24 +160,43 @@ O que venho construindo e aprimorando na prática:
 ## Atividade no GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kalicon/Kalicon/output/github-contribution-grid-snake-dark.svg" alt="Contribuições Snake" width="100%" />
+  <!-- Cobrinha com Suporte Nativo a Dark e Light Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalicon/Kalicon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalicon/Kalicon/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Kalicon/Kalicon/output/github-contribution-grid-snake-dark.svg" alt="Contribuições Snake" width="100%" />
+  </picture>
 
   <br /><br />
 
+  <!-- Cards de Estatísticas com Suporte Nativo a Dark e Light Mode -->
   <table border="0">
     <tr>
       <td align="center">
-        <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalicon&theme=tokyonight" alt="Estatísticas Gerais" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalicon&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalicon&theme=default">
+          <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalicon&theme=tokyonight" alt="Estatísticas Gerais" />
+        </picture>
       </td>
       <td align="center">
-        <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalicon&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalicon&theme=tokyonight">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalicon&theme=default">
+          <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalicon&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+        </picture>
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://streak-stats.demolab.com/?user=Kalicon&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Sequência de Commits" />
+  <!-- Sequência de Commits Adaptável -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Kalicon&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Kalicon&theme=github-light-compact&hide_border=true&background=F6F8FA&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
+    <img src="https://streak-stats.demolab.com/?user=Kalicon&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Sequência de Commits" />
+  </picture>
 </div>
 
 ---
@@ -178,3 +206,4 @@ O que venho construindo e aprimorando na prática:
 - Email: [kalicon.amorim@hotmail.com](mailto:kalicon.amorim@hotmail.com)
 - Localização: São Paulo, SP - Brasil
 - GitHub: [github.com/Kalicon](https://github.com/Kalicon)
+- Portfólio Web: [kalicon.github.io](https://kalicon.github.io)
