@@ -1,8 +1,10 @@
 <div align="center">
 
-# Kalicon Amorim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=140&section=header&text=Kalicon%20Amorim&fontSize=36&fontAlignY=38&fontColor=38bdf8&desc=Estudante%20de%20ADS%20na%20FIAP%20(2026)%20%7C%20Desenvolvimento%20Prático&descAlignY=62&descSize=16&descColor=94a3b8" width="100%" alt="Kalicon Amorim" />
 
-Desenvolvedor de Software | Graduando em Análise e Desenvolvimento de Sistemas (FIAP, 2026)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(FIAP%2C+2026);Desenvolvedor+de+Software+focado+em+projetos+pr%C3%A1ticos;Aprendizado+acelerado+por+Intelig%C3%AAncia+Artificial+e+c%C3%B3digo+real;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="mailto:kalicon.amorim@hotmail.com">
@@ -16,22 +18,33 @@ Desenvolvedor de Software | Graduando em Análise e Desenvolvimento de Sistemas 
 
 ---
 
-## Sobre
+## Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP com conclusão prevista para 2026. Atuo no desenvolvimento de sistemas funcionais de ponta a ponta, integrando frontend, arquitetura backend, regras de negócio e automação de processos.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP (com conclusão prevista para 2026) e desenvolvedor em início de trajetória na área de tecnologia. 
 
-Minha prática de desenvolvimento é orientada à resolução de problemas reais de operação e gestão:
+Minha postura diante do aprendizado é prática e direta: em vez de me limitar a exercícios puramente teóricos de cursos, escolhi aprender construindo sistemas reais do início ao fim. 
 
-- **E-Commerce e Produtos Digitais**: Desenvolvimento da plataforma Claravellas (loja virtual de velas aromáticas personalizadas com storefront de alta performance, integração com Stripe para pagamentos e painel administrativo com MongoDB Atlas).
-- **Sistemas Corporativos e Backend**: Desenvolvimento do IntraHub (portal corporativo em Java e Spring Boot com controle de acesso RBAC e auditoria).
-- **Aplicações para o Setor Público (SES-SP)**: Criação de algoritmos de compensação de banco de horas para jornadas reduzidas e dimensionamento de enfermagem (Resolução COFEN) aplicados ao Hospital Maternidade Leonor Mendes de Barros (UGA IV).
-- **Engenharia de Software e Automação**: Desenvolvimento da suíte RHUB, cobrindo regras da CLT brasileira em arquitetura offline (PWA), suíte de testes unitários automatizados com Vitest e exportação analítica em planilhas Excel.
+Utilizo ferramentas modernas de Inteligência Artificial como aliadas estratégicas para acelerar a curva de aprendizado, investigar arquiteturas, validar regras de negócio e tirar soluções completas do papel — do frontend ao backend, banco de dados e deploy.
+
+O que venho construindo e aprimorando na prática:
+- **E-Commerce Real:** Claravellas (loja virtual de velas aromáticas personalizadas com pagamentos via Stripe, banco MongoDB Atlas e deploy no Vercel).
+- **Aplicações para o Setor Público:** Calculadora de apoio a escalas e dimensionamento hospitalar para o Hospital Maternidade Leonor Mendes de Barros (SES-SP).
+- **Regras Complexas e Testes Automatizados:** Suíte RHUB, desenvolvida como desafio acadêmico para cálculos de Departamento Pessoal e simulação CLT vs. PJ (PWA offline e 14 testes unitários com Vitest).
+- **Backend Corporativo:** IntraHub, projeto explorando padrões enterprise em Java 17 e Spring Boot 3 com Spring Security (RBAC) e documentação OpenAPI/Swagger.
+
+---
+
+## Metodologia de Aprendizado
+
+- **Projetos Reais vs. Teoria Isolada:** Cada tecnologia é estudada aplicada a um problema concreto (um e-commerce de velas, um sistema hospitalar ou uma suíte de cálculos trabalhistas).
+- **Desenvolvimento Assistido por IA:** Emprego IA para acelerar a escrita de código, propor testes e esclarecer conceitos avançados, mantendo o controle sobre as decisões de arquitetura e funcionamento do produto.
+- **Visão End-to-End:** Interesse em compreender o fluxo completo de uma aplicação, desde a experiência e responsividade no navegador até a integridade dos dados e regras no backend.
 
 ---
 
 ## Tecnologias e Ferramentas
 
-### Backend e Arquitetura
+### Backend e APIs
 ![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security_6-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
@@ -65,6 +78,20 @@ Minha prática de desenvolvimento é orientada à resolução de problemas reais
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>Claravellas — E-Commerce de Velas Personalizadas</h3>
+      <p>
+        <a href="https://claravellas-three.vercel.app">Loja em Produção</a> | 
+        <i>Repositório Privado</i>
+      </p>
+      <p>Plataforma de e-commerce e gestão para velas aromáticas personalizadas e produtos artesanais de alto padrão.</p>
+      <ul>
+        <li>Storefront responsivo com foco em experiência de compra fluida e Core Web Vitals.</li>
+        <li>Integração de pagamentos e checkout seguro via Stripe.</li>
+        <li>Painel administrativo modular para controle de pedidos, estoque e relatórios de vendas.</li>
+        <li><b>Stack:</b> Node.js, MongoDB Atlas, Stripe API, JavaScript, HTML5/CSS3, Vercel.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
       <h3>RHUB — Suíte de Cálculos CLT e DP</h3>
       <p>
         <a href="https://kalicon.github.io/RHUB/">App Online</a> | 
@@ -76,20 +103,6 @@ Minha prática de desenvolvimento é orientada à resolução de problemas reais
         <li>14 testes unitários automatizados com Vitest cobrindo regras legais de cálculo.</li>
         <li>Exportação estruturada de dados para planilhas Excel (.xlsx) e layout para impressão técnica.</li>
         <li><b>Stack:</b> JavaScript (ES6 Modules), Tailwind CSS, Vitest, SheetJS, Chart.js.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Claravellas — E-Commerce de Velas Personalizadas</h3>
-      <p>
-        <a href="https://claravellas-three.vercel.app">Loja em Produção</a> | 
-        <i>Repositório Privado</i>
-      </p>
-      <p>Plataforma de e-commerce e gestão para velas aromáticas personalizadas e produtos artesanais de alto padrão.</p>
-      <ul>
-        <li>Storefront responsivo com foco em experiência de compra fluida e Core Web Vitals.</li>
-        <li>Integração completa de pagamentos e checkout seguro via Stripe.</li>
-        <li>Painel administrativo modular para controle de pedidos, estoque e indicadores de vendas (BI).</li>
-        <li><b>Stack:</b> Node.js, MongoDB Atlas, Stripe API, JavaScript, HTML5/CSS3, Vercel.</li>
       </ul>
     </td>
   </tr>
