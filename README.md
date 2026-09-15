@@ -22,7 +22,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na FIAP com conclusão previ
 
 Minha prática de desenvolvimento é orientada à resolução de problemas reais de operação e gestão:
 
-- **Sistemas Corporativos**: Desenvolvimento do Claravellas (sistema privado voltado a fluxos operacionais e regras de negócio) e do IntraHub (portal corporativo em Java e Spring Boot com controle de acesso RBAC e auditoria).
+- **E-Commerce e Produtos Digitais**: Desenvolvimento da plataforma Claravellas (loja virtual de velas aromáticas personalizadas com storefront de alta performance, integração com Stripe para pagamentos e painel administrativo com MongoDB Atlas).
+- **Sistemas Corporativos e Backend**: Desenvolvimento do IntraHub (portal corporativo em Java e Spring Boot com controle de acesso RBAC e auditoria).
 - **Aplicações para o Setor Público (SES-SP)**: Criação de algoritmos de compensação de banco de horas para jornadas reduzidas e dimensionamento de enfermagem (Resolução COFEN) aplicados ao Hospital Maternidade Leonor Mendes de Barros (UGA IV).
 - **Engenharia de Software e Automação**: Desenvolvimento da suíte RHUB, cobrindo regras da CLT brasileira em arquitetura offline (PWA), suíte de testes unitários automatizados com Vitest e exportação analítica em planilhas Excel.
 
@@ -50,6 +51,7 @@ Minha prática de desenvolvimento é orientada à resolução de problemas reais
 
 ### Banco de Dados, Testes e Ferramentas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![H2](https://img.shields.io/badge/H2_Database-003B57?style=flat-square)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
@@ -77,14 +79,17 @@ Minha prática de desenvolvimento é orientada à resolução de problemas reais
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Claravellas — Sistema Corporativo</h3>
-      <p><i>Repositório Privado (Em Produção)</i></p>
-      <p>Plataforma empresarial proprietária projetada para automação de processos operacionais e suporte a regras de negócio de alta densidade.</p>
+      <h3>Claravellas — E-Commerce de Velas Personalizadas</h3>
+      <p>
+        <a href="https://claravellas-three.vercel.app">Loja em Produção</a> | 
+        <i>Repositório Privado</i>
+      </p>
+      <p>Plataforma de e-commerce e gestão para velas aromáticas personalizadas e produtos artesanais de alto padrão.</p>
       <ul>
-        <li>Arquitetura modular orientada a estabilidade e integridade de dados.</li>
-        <li>Automação de rotinas internas para redução de trabalho manual.</li>
-        <li>Tratamento de regras de negócio com foco em consistência operacional.</li>
-        <li><b>Foco:</b> Backend, automações e arquitetura corporativa.</li>
+        <li>Storefront responsivo com foco em experiência de compra fluida e Core Web Vitals.</li>
+        <li>Integração completa de pagamentos e checkout seguro via Stripe.</li>
+        <li>Painel administrativo modular para controle de pedidos, estoque e indicadores de vendas (BI).</li>
+        <li><b>Stack:</b> Node.js, MongoDB Atlas, Stripe API, JavaScript, HTML5/CSS3, Vercel.</li>
       </ul>
     </td>
   </tr>
